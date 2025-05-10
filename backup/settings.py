@@ -44,7 +44,7 @@ MIDDLEWARE = [
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:8000",
     "http://127.0.0.1:8000",
-    "http://your_app_frontend_url.com",  # Replace with your app's frontend URL if needed
+    "https://meem62.github.io",  # Replace with your app's frontend URL if needed
 ]
 CORS_ALLOW_CREDENTIALS = True  # Allow sending cookies with API requests
 
