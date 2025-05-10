@@ -52,7 +52,7 @@ CORS_ALLOW_CREDENTIALS = True  # Allow sending cookies with API requests
 CSRF_TRUSTED_ORIGINS = [
     "http://127.0.0.1:8000",
     "http://localhost:8000",
-    "http://your_app_frontend_url.com",  # Add your frontend URL if applicable
+    "https://meem62.github.io",  # Add your frontend URL if applicable
 ]
 
 # Root URL configuration
